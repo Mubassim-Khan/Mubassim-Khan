@@ -1,10 +1,12 @@
 # Hi, I'm Mubassim
 
 <div align="center">
-<img src="6t02.gif" alt="Infinte Loop" align="center">
+<img src="6t02.gif" alt="Infinte Loop" width="75%" align="center">
 </div>
 
 <br>
+
+## About Me
 
 - Frontend Developer
 - UI / UX Designer
