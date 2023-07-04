@@ -1,7 +1,7 @@
 # Hi, I'm Mubassim
 
 <div align="center">
-<img src="https://i.gifer.com/6t02.gif" min-width="40px" max-width="40px" alt="Loading..." align="center">
+<img src="../Mubassim-Khan/Source/6t02.gif" min-width="40px" max-width="40px" alt="Loading..." align="center">
 </div>
 
 <br>
