@@ -1,8 +1,13 @@
 # Hi, I'm Mubassim
 
-<div align="center">
-<img src="../Mubassim-Khan/Source/6t02.gif" min-width="40px" max-width="40px" alt="Loading..." align="center">
-</div>
+<!-- <div align="center">
+<img src="https://github.com/Mubassim-Khan/Mubassim-Khan/blob/main/Source/6t02.gif" alt="Loading..." align="center">
+</div> -->
+
+
+<img src="6t02.gif" alt="Infinte Loop" align="center">
+
+<!-- ![header](https://i.gifer.com/6t02.mp4) -->
 
 <br>
 
