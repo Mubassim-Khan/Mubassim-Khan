@@ -18,9 +18,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Pic">
 
-![Mubassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=radical&hide_border=true)
+![Mubassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20)
 
 <a>
     <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubassim-Khan&theme=radical&hide_border=true"/>
