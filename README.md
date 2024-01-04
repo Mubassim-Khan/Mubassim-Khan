@@ -1,22 +1,28 @@
 # Hi, I'm Mubassim
 
 <div align="center">
-<img src="6t02.gif" alt="Infinte Loop" width="75%" style="border-radius: 75px" align="center">
+<img src="6t02.gif" alt="Infinte Loop" width="65%" height="65%" align="center">
 </div>
 
 <br>
 
 ## About Me
 
-- Frontend Developer
-- UI / UX Designer
+- Student
+- Front-End Developer
 
-<h2> Currently Learning Website & Application Development 
+<h2> I'm Currently Learning:
 <img src="https://thumbs.gfycat.com/PessimisticGlamorousDunnart-size_restricted.gif" width="240px" height="160px" alt="Loading..." align="center">
 </h2>
-<br>
+
+![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Nextjs](https://img.shields.io/badge/-Next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![My SQL](https://img.shields.io/badge/-MySQL-%23ffff.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-F7B93E.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Pic">
+<br>
 
 ![Mubassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true&rank_icon=percentile)
 
