@@ -28,6 +28,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20)
 
+<!--WakaTime Card-->
+![Mubassim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20&show_time=true&show_title=true&show_total=true&time_range=all_time)
+
 <a>
     <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubassim-Khan&theme=radical&hide_border=true"/>
 </a>
@@ -44,7 +47,7 @@
 
 [![Mubassim's Tropies](https://github-profile-trophy.vercel.app/?username=Mubassim-Khan&theme=radical&row=1&no-frame=true&margin-w=10&margin-h=15)](https://github.com/Mubassim-Khan)
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://instagram.com/mubassimkhan_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubassimkhan_08" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mubassim-ahmed-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubassim-Khan(LinkedIn)" height="30" width="40" /></a>
@@ -71,5 +74,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="pandas" width="40" height="40" />
 </p>
 
-<!--WakaTime Card-->
-<!--[![Mubassim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mubassim-Khan&layout=compact&theme=radical&hide_border=true)]-->
