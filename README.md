@@ -9,7 +9,7 @@
 ## About Me
 
 - Student
-- Front-End Developer
+- Web Developer
 
 <h2> I'm Currently Learning:
 <img src="https://thumbs.gfycat.com/PessimisticGlamorousDunnart-size_restricted.gif" width="240px" height="160px" alt="Loading..." align="center">
@@ -56,7 +56,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com)](mailto:mubassimkhan@gmail.com)
 
 <h2 align="left">Languages, Tools & Frameworks</h2>
-<p align="left"> 
+<p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45" />
