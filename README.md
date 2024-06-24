@@ -1,4 +1,6 @@
-# Hi, I'm Mubassim
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=35&duration=3500&pause=250&color=E0F2FE&center=true&vCenter=true&random=false&width=500&height=70&&lines=Hi+There!+👋;I'm+Mubassim;"/>
+</p>
 
 <div align="center">
 <img src="6t02.gif" alt="Infinte Loop" width="65%" height="65%" align="center">
@@ -6,12 +8,12 @@
 
 <br>
 
-## About Me
+## About Me 💬
 
 - Student
 - Web Developer
 
-<h2> I'm Currently Learning:
+<h2> I'm Currently Learning 🌱 
 <img src="https://thumbs.gfycat.com/PessimisticGlamorousDunnart-size_restricted.gif" width="240px" height="160px" alt="Loading..." align="center">
 </h2>
 
@@ -21,12 +23,21 @@
 ![My SQL](https://img.shields.io/badge/-MySQL-%23ffff.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-F7B93E.svg?style=for-the-badge&logo=python&logoColor=white)
 
+<h2 align="left">Connect with me 🌐 </h2>
+<div align="center">
+<a href="https://instagram.com/mubassimahmedkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubassimkhan_08" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mubassim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubassim-Khan(LinkedIn)" height="30" width="40" /></a>
+<a href="mailto:mubassimkhan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com" alt="mubassimkhan@gmail.com" /></a>
+</div>
+
+## GitHub Stats 📊
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Pic">
 <br>
 
-![Mubassim's GitHub stats](https://readme-stats-personal.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true&rank_icon=percentile)
+![Mubassim's GitHub stats](https://readme-stats-personal.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true&rank_icon=percentile&count_private=true&include_all_commits=true)
 
-![Top Langs](https://readme-stats-personal.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15)
+![Top Langs](https://readme-stats-personal.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&include_all_commits=true&count_private=true)
 
 <!--WakaTime Card-->
 ![Mubassim's WakaTime stats](https://readme-stats-personal.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&show_time=true&show_title=true&show_total=true&time_range=all_time)
@@ -43,19 +54,11 @@
 </p>
 <br>
 
-# GitHub Trophy Dashboard 🏆
+## GitHub Trophy Dashboard 🏆
 
 [![Mubassim's Tropies](https://github-profile-trophy.vercel.app/?username=Mubassim-Khan&theme=radical&row=1&no-frame=true&margin-w=10&margin-h=15)](https://github.com/Mubassim-Khan)
 
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://instagram.com/mubassimkhan_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubassimkhan_08" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mubassim-ahmed-khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mubassim-Khan(LinkedIn)" height="30" width="40" /></a>
-</p>
-
-[![Gmail Badge](https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com)](mailto:mubassimkhan@gmail.com)
-
-<h2 align="left">Languages, Tools & Frameworks</h2>
+<h2 align="left">Tech Stack 💻</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
