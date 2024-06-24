@@ -24,12 +24,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Pic">
 <br>
 
-![Mubassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true&rank_icon=percentile)
+![Mubassim's GitHub stats](https://readme-stats-personal.vercel.app/api?username=Mubassim-Khan&show_icons=true&theme=ambient_gradient&hide_border=true&rank_icon=percentile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20)
+![Top Langs](https://readme-stats-personal.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20)
 
 <!--WakaTime Card-->
-![Mubassim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20&show_time=true&show_title=true&show_total=true&time_range=all_time)
+![Mubassim's WakaTime stats](https://readme-stats-personal.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=20&show_time=true&show_title=true&show_total=true&time_range=all_time)
 
 <a>
     <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubassim-Khan&theme=radical&hide_border=true"/>
