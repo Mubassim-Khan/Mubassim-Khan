@@ -25,7 +25,7 @@
 
 <h2 align="left">Connect with me 🌐 </h2>
 <div align="center">
-<a href="https://www.instagram.com/mubassimahmedkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account" /></a>
+<!-- <a href="https://www.instagram.com/mubassimahmedkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account" /></a> -->
 <a href="https://www.linkedin.com/in/mubassim/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mubassim-Khan(LinkedIn)" /></a>
 <a href="mailto:mubassimkhan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com" height="25" alt="mubassimkhan@gmail.com" /></a>
 <a href="https://www.mubassim-khan.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
