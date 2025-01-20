@@ -44,8 +44,9 @@
 <!--WakaTime Card-->
 ![Mubassim's WakaTime stats](https://readme-stats-personal.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&show_time=true&show_title=true&show_total=true&time_range=all_time)
 
+<!--Commit Streak-->
 <a>
-    <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=Mubassim-Khan&theme=radical&hide_border=true"/>
+    <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Mubassim-Khan&theme=radical&hide_border=true"/>
 </a>
 
 <br>
