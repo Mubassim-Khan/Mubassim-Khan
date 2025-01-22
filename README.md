@@ -17,12 +17,10 @@
 <img src="https://thumbs.gfycat.com/PessimisticGlamorousDunnart-size_restricted.gif" width="240px" height="160px" alt="Loading..." align="center">
 </h2>
 
-![Redux](https://img.shields.io/badge/-Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Nextjs](https://img.shields.io/badge/-Next-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![My SQL](https://img.shields.io/badge/-MySQL-%23ffff.svg?style=for-the-badge&logo=mysql&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-F7B93E.svg?style=for-the-badge&logo=python&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Docker](  https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <h2 align="left">Connect with me 🌐 </h2>
 <div align="center">
 <!-- <a href="https://www.instagram.com/mubassimahmedkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account" /></a> -->
@@ -46,7 +44,7 @@
 
 <!--Commit Streak-->
 <a>
-    <img align="center" width="100%" style="display: block;" src="https://github-readme-streak-stats-seven-azure.vercel.app?user=Mubassim-Khan&theme=radical&hide_border=true"/>
+    <img align="center" width="100%" style="display: block;" src="https://m-readme-streak-stats.vercel.app?user=Mubassim-Khan&theme=radical&hide_border=true"/>
 </a>
 
 <br>
@@ -74,9 +72,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="45" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter-notebook" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="pandas" width="40" height="40" />
 </p>
 
