@@ -40,7 +40,7 @@
 ![Top Langs](https://readme-stats-personal.vercel.app/api/top-langs/?username=Mubassim-Khan&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&include_all_commits=true&count_private=true)
 
 <!--WakaTime Card-->
-![Mubassim's WakaTime stats](https://readme-stats-personal.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&show_time=true&show_title=true&show_total=true&time_range=all_time)
+<!-- ![Mubassim's WakaTime stats](https://readme-stats-personal.vercel.app/api/wakatime?username=mubassim_08&layout=compact&theme=ambient_gradient&hide_border=true&langs_count=15&show_time=true&show_title=true&show_total=true&time_range=all_time) -->
 
 <!--Commit Streak-->
 <a>
@@ -50,7 +50,8 @@
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mubassim-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Mubassim-Khan" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mubassim-Khan?label=Followers&style=social"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mubassim-Khan?label=Followers&style=social"> •  
+  <a href="https://wakatime.com/@018c4489-8a75-4389-9ae8-bb9fac5c0aae"><img src="https://wakatime.com/badge/user/018c4489-8a75-4389-9ae8-bb9fac5c0aae.svg" alt="Total time coded since Dec 7 2023" /></a> 
   <img src="https://img.shields.io/github/stars/Mubassim-Khan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <br>
