@@ -49,9 +49,9 @@
 
 <br>
 <p align="center">
+  <img src="https://wakatime.com/badge/user/018c4489-8a75-4389-9ae8-bb9fac5c0aae.svg" alt="Total time coded since Dec 7 2023" />
   <img src="https://komarev.com/ghpvc/?username=Mubassim-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="Mubassim-Khan" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Mubassim-Khan?label=Followers&style=social"> •  
-  <a href="https://wakatime.com/@018c4489-8a75-4389-9ae8-bb9fac5c0aae"><img src="https://wakatime.com/badge/user/018c4489-8a75-4389-9ae8-bb9fac5c0aae.svg" alt="Total time coded since Dec 7 2023" /></a> 
   <img src="https://img.shields.io/github/stars/Mubassim-Khan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <br>
