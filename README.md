@@ -1,6 +1,6 @@
-<p align="center">
+<div align="left">
     <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=35&duration=3500&pause=250&color=1d4ed8%C2%A2er=true&vCenter=true&random=false&width=500&height=70&&lines=Hi+There!+%F0%9F%91%8B;I%27m+Mubassim;"/>
-</p>
+</div>
 
 <h2 align="left">Tech Stack 💻</h2>
 <div> 
