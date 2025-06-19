@@ -4,10 +4,8 @@
 
 <h2 align="left">Tech Stack 💻</h2>
 <div> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=whit" alt="java"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next"/>
@@ -19,9 +17,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-<img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="hugging-face"/>
 </div>
-
 
 <!-- <div align="center">
 <img src="./assets/loop.gif" alt="Infinte Loop" width="65%" height="65%" align="center">
@@ -45,10 +41,10 @@
 
 <h2 align="left">Connect with me 🌐 </h2>
 <div align="center">
-<!-- <a href="https://www.instagram.com/mubassimahmedkhan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account" /></a> -->
-<a href="https://www.linkedin.com/in/mubassim" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mubassim-Khan(LinkedIn)" /></a>
-<a href="mailto:mubassimkhan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com" height="25" alt="mubassimkhan@gmail.com" /></a>
-<a href="https://www.mubassim.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<!-- <a href="https://www.instagram.com/mubassimahmedkhan" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram account" /></a> -->
+<a href="https://www.linkedin.com/in/mubassim" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mubassim-Khan(LinkedIn)" /></a>
+<a href="mailto:mubassimkhan@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-mubassimkhan@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mubassimkhan@gmail.com" height="25" alt="mubassimkhan@gmail.com" /></a>
+<a href="https://www.mubassim.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 
