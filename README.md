@@ -1,5 +1,3 @@
-# Mubassim Khan
-
 Hi! I'm **Mubassim Ahmed Khan**, a Computer Science student and developer focused on web technologies, AI, and open-source. I enjoy building full-stack projects, experimenting with ML, and contributing to real-world code.
 
 ## Tech Stack 💻
