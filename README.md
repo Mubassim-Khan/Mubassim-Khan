@@ -45,7 +45,7 @@ Hi! I'm **Mubassim Ahmed Khan**, a Computer Science student and developer focuse
 ## GitHub Stats 📊
 
 <details>
-  <summary><strong>📊 View GitHub Stats & Activity</strong></summary>
+  <summary><strong>View GitHub Stats & Activity 📊</strong></summary>
 
   <div align="right">
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" alt="Computer illustration">
