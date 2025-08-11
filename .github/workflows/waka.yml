@@ -23,5 +23,5 @@ jobs:
           SHOW_LINES_OF_CODE: false
           SHOW_COMMIT: false
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           
