@@ -85,15 +85,15 @@ Hi! I'm **Mubassim Ahmed Khan**, a Computer Science student and developer focuse
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 05 September 2025
+From: 06 December 2023 - To: 06 September 2025
 
-Total Time: 680 hrs 19 mins
+Total Time: 685 hrs 19 mins
 
-TypeScript    223 hrs 59 mins ████████░░░░░░░░░░░░░░░░░   32.55 %
-JavaScript    178 hrs 28 mins ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-Python        145 hrs 59 mins █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
-CSS           39 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Markdown      25 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript    227 hrs 10 mins ████████▒░░░░░░░░░░░░░░░░   32.77 %
+JavaScript    178 hrs 28 mins ██████▒░░░░░░░░░░░░░░░░░░   25.75 %
+Python        147 hrs 20 mins █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+CSS           40 hrs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Markdown      25 hrs 20 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
