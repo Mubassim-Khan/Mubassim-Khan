@@ -85,7 +85,7 @@ Hi! I'm **Mubassim Ahmed Khan**, a Computer Science student and developer focuse
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 12 December 2025
+From: 06 December 2023 - To: 13 December 2025
 
 Total Time: 798 hrs 10 mins
 
